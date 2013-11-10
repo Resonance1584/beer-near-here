@@ -1,0 +1,16 @@
+{
+  "name": "beernearhere",
+  "version": "0.0.1",
+  "description": "Finds alcohol related places near the browsers current location",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-connect": "v0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lewis Christie",
+  "license": "MIT"
+}
